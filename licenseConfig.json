@@ -38,10 +38,10 @@
             }
         },
         "css": {
-            "prepend": "///**",
-            "append": "// */\n",
+            "prepend": "/**",
+            "append": " */\n",
             "eachLine": {
-                "prepend": "// * "
+                "prepend": " * "
             }
         }
     },
