@@ -1,0 +1,5 @@
+extra/
+node_modules/
+.vscode/
+package-*
+cache.json
