@@ -1,0 +1,12 @@
+{
+    "lang": "en",
+    "theme_color": "#8b0000",
+    "background_color": "#222222",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": ".",
+    "start_url": ".",
+    "name": "𝑰𝒛𝒂𝒏𝒂𝒈𝒊𝑪𝒓𝒂𝒇𝒕 Website",
+    "short_name": "IzanagiCraft",
+    "description": "𝑰𝒛𝒂𝒏𝒂𝒈𝒊𝑪𝒓𝒂𝒇𝒕 Website"
+}
